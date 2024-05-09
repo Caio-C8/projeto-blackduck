@@ -1,0 +1,42 @@
+.body{
+    background-color: #000000;
+    font-size: 23px;
+    color: #FFFFFF;
+    font-family: akshar;
+}
+.cabecalho{
+    color: #000000;
+    background-color: #FFFFFF;
+    font-weight: bold;
+}
+.rodape{
+    color: #000000;
+    background-color: #FF292A;
+    font-weight: bold;
+}
+.normal{
+    font-weight: normal;
+}
+#opcoes{
+    text-align: center;
+    padding-right: 100px;
+}
+.logo1{
+    padding-top: 60px;
+    padding-right: 60px;
+    padding-bottom: 60px;
+    padding-left: 60px;
+}
+.logo2{
+    height: 450px;
+    width: 450px;
+    padding-top: 60px;
+    padding-right: 60px;
+    padding-bottom: 60px;
+    padding-left: 60px;
+}
+.joao{
+    text-align: right;
+    text-align: justify;
+    padding-right: 225px;
+}
