@@ -1,0 +1,45 @@
+.local1{
+    width : auto ;
+    height: auto ;
+    max-width: 20.5rem ;
+    max-height: 20.5rem ;
+    margin-left: 25px;
+    border-radius: 16px;
+    border: 2px solid red;
+    
+    
+}
+.local4{
+    width : auto ;
+    height: auto ;
+    max-width: 20.5rem ;
+    max-height: 20.5rem ;
+    margin-left: 25px; 
+    border-radius: 16px;
+    border: 2px solid red;
+    
+}
+.local5{
+    width : auto ;
+    height: auto ;
+    max-width: 20.5rem ;
+    max-height: 20.5rem ;
+    margin-left: 25px; 
+    border-radius: 16px;
+    border: 2px solid red;
+     
+}
+.local6{
+    width : auto ;
+    height: auto ;
+    max-width: 20.5rem ;
+    max-height: 20.5rem ;
+    margin-left: 25px;
+    border-radius: 16px;
+    border: 2px solid red;
+
+}
+.texto{
+    color: #fff;
+    font-size: 17px;
+}
