@@ -1,0 +1,21 @@
+.imagem-hor {
+  width: auto;
+  height: auto;
+  max-width: 40rem;
+  max-height: 18rem;
+  border: 0.125rem solid #f00;
+  border-radius: 1rem;
+}
+
+.texto {
+  font-size: 2rem;
+  text-align: justify;
+}
+
+.mr {
+  margin-right: 1rem;
+}
+
+.mb-3 {
+  margin-top: 1rem !important;
+}

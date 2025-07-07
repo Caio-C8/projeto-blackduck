@@ -1,0 +1,47 @@
+.titulo {
+  font-size: 3.5rem;
+  padding-bottom: 2rem;
+  font-weight: bold;
+}
+
+.texto {
+  font-size: 1.5rem;
+  text-align: justify;
+}
+
+.image {
+  max-width: 43.75rem;
+  max-height: 43.75rem;
+  width: auto;
+  height: auto;
+  border: 0.063rem solid #f00;
+  border-radius: 1rem;
+  position: relative;
+  left: 6rem;
+  top: 1rem;
+}
+
+.row p {
+  color: white;
+  text-align: justify;
+}
+
+.card {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  border: 2px solid white;
+  font-size: 1.02rem;
+  margin: 1rem;
+  height: 33rem;
+  padding: 0 0.5rem;
+}
+
+.titulo {
+  margin-bottom: 2rem;
+}
+
+.titulo-card {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}

@@ -1,0 +1,64 @@
+.card {
+  background-color: #333;
+  color: #fff;
+  font-size: 1.5rem;
+  padding: 1rem;
+  width: 65%;
+}
+
+.card input {
+  background-color: #333;
+  border: 0.063rem solid #fff;
+  margin-bottom: 0.7rem;
+}
+
+.card select {
+  background-color: #333;
+  border: 0.063rem solid #fff;
+}
+
+.form-control {
+  color: #fff !important;
+  background-color: #333 !important;
+}
+
+a {
+  font-size: 1rem;
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  color: #e0e0e0;
+}
+
+.btn {
+  background-color: #ff3333;
+  border: 0.063rem solid #fff;
+  font-size: 1.2rem;
+  color: #fff;
+  margin-left: 1.5rem;
+  width: 19rem;
+}
+
+.btn:hover {
+  background-color: #f00;
+  border: 0.063rem solid #fff;
+}
+
+.btn:active {
+  background-color: #f00 !important;
+  border: 0.063rem solid #f00 !important;
+}
+
+.form-select {
+  color: #fff;
+}
+
+#icone {
+  width: auto;
+  height: auto;
+  max-width: 20px;
+  max-height: 20px;
+  margin-left: 0.5rem;
+}
