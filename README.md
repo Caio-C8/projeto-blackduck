@@ -14,3 +14,8 @@ Este é um site simples desenvolvido com HTML, CSS e Bootstrap. O objetivo do de
 
 - **Apenas front-end** – O projeto não utiliza frameworks ou bibliotecas JavaScript além do Bootstrap.
 - **Pouca resposividade** - O layout do projeto não foi focado atender diversos dispositivos devido ao curto tempo de desenvolvimento.
+- 
+## Instruções de execução
+
+1. **Abra algum arquivo .html com duplo clique**
+
