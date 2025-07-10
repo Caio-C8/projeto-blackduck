@@ -6,16 +6,14 @@ Este é um site simples desenvolvido com HTML, CSS e Bootstrap. O objetivo do de
 
 ## Tecnologias utilizadas
 
-- **HTML5** – Estrutura semântica do conteúdo.
-- **CSS3** – Estilização personalizada.
-- **Bootstrap 4/5** – Grid responsivo, componentes estilizados (navbar, cards, botões).
+- **HTML5**
+- **CSS3**
+- **Bootstrap 4/5**
 
 ## Observações
 
-- **Apenas front-end** – O projeto não utiliza frameworks ou bibliotecas JavaScript além do Bootstrap.
-- **Pouca resposividade** - O layout do projeto não foi focado atender diversos dispositivos devido ao curto tempo de desenvolvimento.
-- 
+- Este projeto foi desenvolvido para fins acadêmicos em aproximadamente 6 meses, durante o 1º período do curso de Sistemas de Informação.
+  
 ## Instruções de execução
 
 1. **Abra algum arquivo .html com duplo clique**
-
